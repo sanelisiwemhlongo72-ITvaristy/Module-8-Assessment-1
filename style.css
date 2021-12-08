@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: azure;
+}
+
+#left-column{
+    width: 60%;
+    float: left;
+    background-color: rgb(102, 80, 80);
+
+}
+#right-column{
+    width: 230%;
+    margin-left: 140px;
+    margin-top: 100px;
+
+}
+
+img#logo{
+    position:fixed;
+    width:150px;
+    bottom:20px;
+    right:10px
+}
